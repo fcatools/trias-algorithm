@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: trias-algorithm
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Robert
+    family-names: Jäschke
+    email: robert.jaeschke@hu-berlin.de
+    affiliation: Humboldt-Universität zu Berlin
+    orcid: 'https://orcid.org/0000-0003-3271-9653'
+repository-code: >-
+  https://github.com/fcatools/trias-algorithm?tab=readme-ov-file
+abstract: >-
+  An algorithm for computing triadic concepts which fulfill
+  minimal support constraints.
+license: GPL-2.0
+commit: 527cd5188e3e5cf641c678814b9787244c6f2e90
+date-released: '2013-04-05'
