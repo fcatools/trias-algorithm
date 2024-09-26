@@ -14,7 +14,7 @@ authors:
     affiliation: Humboldt-Universität zu Berlin
     orcid: 'https://orcid.org/0000-0003-3271-9653'
 repository-code: >-
-  https://github.com/fcatools/trias-algorithm?tab=readme-ov-file
+  https://github.com/fcatools/trias-algorithm
 abstract: >-
   An algorithm for computing triadic concepts which fulfill
   minimal support constraints.
